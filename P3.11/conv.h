@@ -5,16 +5,16 @@
 
 #endif // CONVERT_H_INCLUDED
 enum Scale
- {
-   Celsiy, Kelvin, Fahrenheit
- };
+{
+    Celsiy, Kelvin, Fahrenheit
+};
 
 struct Temperature
 {
-  Temperature(double value, char scale);
-   Temperature();
-  double value;
-  char scale;
+    Temperature(double value, char scale);
+    Temperature();
+    double value;
+    char scale;
 };
 
 Temperature convert(Temperature tepm, Scale to);

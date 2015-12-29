@@ -19,7 +19,6 @@ Temperature convert(Temperature temp, Scale to)
     if (tempC<-273.15)
     {
        throw logic_error("Vvedeno ne vernoe znachenie.\n");
-
     }
     switch (to)
     {

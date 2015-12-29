@@ -127,3 +127,32 @@
 	"sdt.h"
 	"conv.h"
 
+1449177952 source:f:\popov a-02-13\tp3\p3.14\c2.cpp
+	"sdt.h"
+	"conv.h"
+
+1444314920 f:\popov a-02-13\tp3\p3.14\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1449169776 f:\popov a-02-13\tp3\p3.14\conv.h
+
+1451294433 source:f:\popov a-02-13\tp3\p3.14\conv.cpp
+	"sdt.h"
+	"conv.h"
+

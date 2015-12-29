@@ -8,8 +8,6 @@ int main()
     vector <Temperature> cel;
     vector <Temperature> kel;
     vector <Temperature> far;
-    double t,tc,tk,tf;
-    char scale;
     while(cin)
     {
         try
@@ -38,9 +36,9 @@ int main()
     cout<<"CElCII  "<<"KELVIN  "<<"FARENGEIT "<<"\n";
     for (int i=0; i<(cel.size())-1; i++)
     {
-        cout<<cel[i].value<<"\t";
-        cout<<kel[i].value<<"\t";
-        cout<<far[i].value<<"\n";
+        cout<<cel[i].value<< cel[i].scale<<"\t";
+        cout<<kel[i].value<< kel[i].scale<<"\t";
+        cout<<far[i].value<< far[i].scale<<"\n";
     }
 
 }

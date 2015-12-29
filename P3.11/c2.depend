@@ -32,7 +32,7 @@
 	"sdt.h"
 	"conv.h"
 
-1448008681 source:f:\popov a-02-13\tp3\p3.11\conv.cpp
+1448008682 source:f:\popov a-02-13\tp3\p3.11\conv.cpp
 	"sdt.h"
 	"conv.h"
 
@@ -55,9 +55,9 @@
 	<random>
 	<stdexcept>
 
-1448006047 f:\popov a-02-13\tp3\p3.11\conv.h
+1449169776 f:\popov a-02-13\tp3\p3.11\conv.h
 
-1448008185 source:f:\popov a-02-13\tp3\p3.11\sctruc.cpp
+1449172558 source:f:\popov a-02-13\tp3\p3.11\sctruc.cpp
 	"sdt.h"
 	"conv.h"
 
@@ -91,6 +91,10 @@
 	"conv.h"
 
 1449172076 source:c:\documents and settings\user\Рабочий стол\tp3\p3.11\sctruc.cpp
+	"sdt.h"
+	"conv.h"
+
+1449172510 source:f:\popov a-02-13\tp3\p3.11\c2.cpp
 	"sdt.h"
 	"conv.h"
 

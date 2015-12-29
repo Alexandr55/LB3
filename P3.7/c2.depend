@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1448002886 source:f:\popov a-02-13\tp3\p3.7\conv.cpp
+1451291812 source:f:\popov a-02-13\tp3\p3.7\conv.cpp
 	"sdt.h"
 	"conv.h"
 
@@ -22,9 +22,9 @@
 	<random>
 	<stdexcept>
 
-1448003515 f:\popov a-02-13\tp3\p3.7\conv.h
+1451287871 f:\popov a-02-13\tp3\p3.7\conv.h
 
-1448002928 source:f:\popov a-02-13\tp3\p3.7\c2.cpp
+1451291928 source:f:\popov a-02-13\tp3\p3.7\c2.cpp
 	"sdt.h"
 	"conv.h"
 
