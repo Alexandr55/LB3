@@ -1,4 +1,5 @@
-44C	317.15K	111.2F
-Max =317.15K
-Min =317.15K
-Srednyaya =317.15
+120C	393.15K	248F
+120C	393.15K	248F
+Max =393.15K
+Min =393.15K
+Srednyaya =0

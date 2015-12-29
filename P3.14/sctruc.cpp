@@ -100,9 +100,23 @@ Temperature operator+(const Temperature& left, const Temperature& right)
 
 Temperature operator+=(Temperature& left, const Temperature& right)
 {
-    if (left.scale==right.scale)
+    if (left.scale==right.scale){
     left.value+=right.value;
     return left;
+    }
+    else
+     switch (left.scale)
+        {
+        case 'C':
+           left.value+=convert(right ,Celsiy).value;
+           return left;
+            case 'K':
+              left.value+=convert(right ,Kelvin).value;
+           return left;
+             case 'F':
+                  left.value+=convert(right ,Fahrenheit).value;
+           return left;
+        }
 }
 
 Temperature operator/(Temperature& left, const int division)
